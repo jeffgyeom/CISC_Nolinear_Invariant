@@ -12,5 +12,5 @@
 3. Choose the block cipher
 
 #### To add a S-Box
-Add the informtation with the proper format to ./sboxes_info/sboxes.py
+Add the information with the proper format to ./sboxes_info/sboxes.py
 (e.g., the format = ["ALGNAME", [SBOX...]]
