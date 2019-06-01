@@ -9,7 +9,7 @@
 1. Enter the directory for each method
 2. Command "sage [each_method_file].sage"
     (e.g. :  sage cycle_based_search_final.sage )
-3. Choose the algorithm
+3. Choose the block cipher
 
 #### To add a S-Box
 Add the informtation with the proper format to ./sboxes_info/sboxes.py
